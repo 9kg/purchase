@@ -1,0 +1,12 @@
+[
+  {
+    "title": "JS Components",
+    "list": [
+      {
+        "path": "/action-sheet",
+        "name": "Action sheet",
+        "icon": "action-sheet"
+      }
+    ]
+  }
+]
